@@ -1,0 +1,6 @@
+{
+  "name": "V BABY | LITTLE MOMENTS BIG DREAMS",
+  "description": "V BABY - عالم من الشياكة والراحة لأطفالنا. ملابس أطفال بخامات ناعمة وتصميمات مميزة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
